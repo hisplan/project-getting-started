@@ -1,4 +1,4 @@
-# Lab - Getting Started
+# Project - Getting Started
 
 ## Study
 
